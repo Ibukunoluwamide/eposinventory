@@ -1,0 +1,8 @@
+#intro {
+    background-image: url("https://img.freepik.com/premium-photo/manager-holding-briefing-presentation-conference-room-monitor-project-corporate-staff-discussing-new-business-application-with-colleagues-looking-screen_482257-14678.jpg?w=740");
+    height: 100vh;
+}
+
+.main i, .main p{
+    padding-bottom: 20px;
+}
